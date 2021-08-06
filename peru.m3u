@@ -1,0 +1,50 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="PERU - AMERICA TV HD" tvg-logo="http://www.iptbest.xyz/logo/AmericaTVPeruHD.png" group-title="Peru",PERU - AMERICA TV HD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/22511
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="PERU - AMERICA TV SD " tvg-logo="http://iptbest.xyz/logo/AmericaTVPeru.png" group-title="Peru",PERU - AMERICA TV SD 
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/22510
+#EXTINF:-1 tvg-id="" tvg-name="PERU - ANTARES TV TERAPOTO SD " tvg-logo="http://www.jomyson.com/logo/AntaresTV.png" group-title="Peru",PERU - ANTARES TV TERAPOTO SD 
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/768
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="PERU - ATV HD" tvg-logo="http://www.iptbest.xyz/logo/ATV-Peru.png" group-title="Peru",PERU - ATV HD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/38857
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="PERU - ATV SD" tvg-logo="http://www.iptbest.xyz/logo/ATV-Peru.png" group-title="Peru",PERU - ATV SD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/22509
+#EXTINF:-1 tvg-id="" tvg-name="PERU - BHTV  HD" tvg-logo="http://www.iptbest.xyz/logo/BHTV.png" group-title="Peru",PERU - BHTV  HD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/10748
+#EXTINF:-1 tvg-id="" tvg-name="PERU - BHTV HD" tvg-logo="http://www.iptbest.xyz/logo/BHTV.png" group-title="Peru",PERU - BHTV HD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/780
+#EXTINF:-1 tvg-id="" tvg-name="PERU - CANAL N" tvg-logo="http://jomyson.com/logo/Canal-N.png" group-title="Peru",PERU - CANAL N
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/61699
+#EXTINF:-1 tvg-id="" tvg-name="PERU - CAPITAL TV FHD" tvg-logo="http://www.ictv19.xyz/logo/CapitalTV.png" group-title="Peru",PERU - CAPITAL TV FHD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/1454
+#EXTINF:-1 tvg-id="" tvg-name="PERU - CENTRAL TV SD " tvg-logo="http://www.iptbest.xyz/logo/Central-TV.png" group-title="Peru",PERU - CENTRAL TV SD 
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/781
+#EXTINF:-1 tvg-id="" tvg-name="PERU - CONGRESO DE LA REPUBLICA HD" tvg-logo="http://jomyson.com/logo/CanaldelCongresoPeru.png" group-title="Peru",PERU - CONGRESO DE LA REPUBLICA HD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/61735
+#EXTINF:-1 tvg-id="" tvg-name="PERU - CULTURA 24 TV SD  " tvg-logo="http://www.ictv19.xyz/logo/Cultura24Tv.png" group-title="Peru",PERU - CULTURA 24 TV SD  
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/777
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="PERU - GOLPERU HD" tvg-logo="http://www.iptbest.xyz/logo/GolPeru.png" group-title="Peru",PERU - GOLPERU HD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/34186
+#EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="PERU - GOLPERU SD" tvg-logo="http://www.iptbest.xyz/logo/GolPeru.png" group-title="Peru",PERU - GOLPERU SD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/17412
+#EXTINF:-1 tvg-id="" tvg-name="PERU - HECHICERA TV SD" tvg-logo="http://www.ictv19.xyz/logo/tv-hechicera.png" group-title="Peru",PERU - HECHICERA TV SD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/782
+#EXTINF:-1 tvg-id="FrecuenciaLatina.pe" tvg-name="PERU - LATINA TELEVISIÓN HD" tvg-logo="http://iptbest.xyz/logo/LatinaTelevision.png" group-title="Peru",PERU - LATINA TELEVISIÓN HD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/22514
+#EXTINF:-1 tvg-id="" tvg-name="PERU - MONTERRICO TV FHD " tvg-logo="http://www.iptbest.xyz/logo/MonterricoTV.png" group-title="Peru",PERU - MONTERRICO TV FHD 
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/779
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="PERU - MOVISTAR DEPORTES SD" tvg-logo="http://www.jomyson.com/logo/MovistarDeportes.png" group-title="Peru",PERU - MOVISTAR DEPORTES SD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/22517
+#EXTINF:-1 tvg-id="" tvg-name="PERU - OVACION TV SD" tvg-logo="http://www.ictv19.xyz/logo/OvacionTV.png" group-title="Peru",PERU - OVACION TV SD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/770
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="PERU - PANAMERICANA SD" tvg-logo="http://www.iptbest.xyz/logo/panamericana-Tv.png" group-title="Peru",PERU - PANAMERICANA SD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/22519
+#EXTINF:-1 tvg-id="" tvg-name="PERU - PERU MAGICO" tvg-logo="http://jomyson.com/logo/PeruMagico.png" group-title="Peru",PERU - PERU MAGICO
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/22513
+#EXTINF:-1 tvg-id="TvPeru.pe" tvg-name="PERU - TV PERU NOTICIAS SD" tvg-logo="http://www.jomyson.com/logo/TVPeruNoticias.png" group-title="Peru",PERU - TV PERU NOTICIAS SD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/1456
+#EXTINF:-1 tvg-id="TvPeru.pe" tvg-name="PERU - TV PERU SD" tvg-logo="http://www.iptbest.xyz/logo/TVPeru.png" group-title="Peru",PERU - TV PERU SD
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/22522
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="PERU - WILLAX HD " tvg-logo="http://www.iptbest.xyz/logo/Willax-TV.png" group-title="Peru",PERU - WILLAX HD 
+http://iptbest.xyz:8000/eramosfotografia/Fc9RytvLUF/894
